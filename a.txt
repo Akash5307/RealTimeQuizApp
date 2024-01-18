@@ -1,0 +1,3 @@
+Admin can create quizzes in realtime
+
+user can attempt questions and then leaderboard will be shown to user
